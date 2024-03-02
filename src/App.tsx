@@ -5,6 +5,7 @@ import { Team } from "./components/Team";
 import svg from "./assets/svg1.svg"
 
 function App() {
+  // main page 
   return (
     <div className="flex flex-col">
       <img src={svg} alt="svg"  className="self-end"/>
